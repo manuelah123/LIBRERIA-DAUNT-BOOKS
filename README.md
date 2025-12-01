@@ -2,6 +2,7 @@
 
 Proyecto desarrollado en C++ que simula el funcionamiento de un sistema de catalogación de libros con funcionalidades avanzadas de búsqueda y recomendación utilizando una Tabla Hash para optimizar el acceso por autor.
 
+
 # Características principales
 
 - Registro de nuevas publicaciones con datos como título, autor, disciplina, calificación y volumen de distribución.
